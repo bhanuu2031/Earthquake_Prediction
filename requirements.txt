@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+requests
+scikit-learn
+torch
+fastapi
+uvicorn[standard]
+streamlit
+plotly
+transformers
+sentence-transformers
+langchain
+faiss-cpu
+python-dotenv
